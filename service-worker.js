@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/hiwin/precache-manifest.15a2e71b3f5f6be9ebfe3b93b6a9d047.js"
+  "/hiwin/precache-manifest.9c1318adc3a7ffb0dcf614f2b1b0279f.js"
 );
 
 self.addEventListener('message', (event) => {

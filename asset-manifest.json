@@ -1,22 +1,24 @@
 {
   "files": {
-    "main.css": "/hiwin/static/css/main.d5cefc6f.chunk.css",
-    "main.js": "/hiwin/static/js/main.e086bb99.chunk.js",
-    "main.js.map": "/hiwin/static/js/main.e086bb99.chunk.js.map",
+    "main.css": "/hiwin/static/css/main.8eb10b93.chunk.css",
+    "main.js": "/hiwin/static/js/main.a102234a.chunk.js",
+    "main.js.map": "/hiwin/static/js/main.a102234a.chunk.js.map",
     "runtime-main.js": "/hiwin/static/js/runtime-main.d9c4e860.js",
     "runtime-main.js.map": "/hiwin/static/js/runtime-main.d9c4e860.js.map",
-    "static/js/2.7f4791ad.chunk.js": "/hiwin/static/js/2.7f4791ad.chunk.js",
-    "static/js/2.7f4791ad.chunk.js.map": "/hiwin/static/js/2.7f4791ad.chunk.js.map",
+    "static/js/2.f67dbc80.chunk.js": "/hiwin/static/js/2.f67dbc80.chunk.js",
+    "static/js/2.f67dbc80.chunk.js.map": "/hiwin/static/js/2.f67dbc80.chunk.js.map",
     "index.html": "/hiwin/index.html",
-    "precache-manifest.15a2e71b3f5f6be9ebfe3b93b6a9d047.js": "/hiwin/precache-manifest.15a2e71b3f5f6be9ebfe3b93b6a9d047.js",
+    "precache-manifest.9c1318adc3a7ffb0dcf614f2b1b0279f.js": "/hiwin/precache-manifest.9c1318adc3a7ffb0dcf614f2b1b0279f.js",
     "service-worker.js": "/hiwin/service-worker.js",
-    "static/css/main.d5cefc6f.chunk.css.map": "/hiwin/static/css/main.d5cefc6f.chunk.css.map",
-    "static/js/2.7f4791ad.chunk.js.LICENSE.txt": "/hiwin/static/js/2.7f4791ad.chunk.js.LICENSE.txt"
+    "static/css/main.8eb10b93.chunk.css.map": "/hiwin/static/css/main.8eb10b93.chunk.css.map",
+    "static/js/2.f67dbc80.chunk.js.LICENSE.txt": "/hiwin/static/js/2.f67dbc80.chunk.js.LICENSE.txt",
+    "static/media/no.jpg": "/hiwin/static/media/no.194513f7.jpg",
+    "static/media/yes.jpg": "/hiwin/static/media/yes.f29a90ee.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.d9c4e860.js",
-    "static/js/2.7f4791ad.chunk.js",
-    "static/css/main.d5cefc6f.chunk.css",
-    "static/js/main.e086bb99.chunk.js"
+    "static/js/2.f67dbc80.chunk.js",
+    "static/css/main.8eb10b93.chunk.css",
+    "static/js/main.a102234a.chunk.js"
   ]
 }
