@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.d5cefc6f.chunk.css",
-    "main.js": "/static/js/main.e086bb99.chunk.js",
-    "main.js.map": "/static/js/main.e086bb99.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.d5781508.js",
-    "runtime-main.js.map": "/static/js/runtime-main.d5781508.js.map",
-    "static/js/2.7f4791ad.chunk.js": "/static/js/2.7f4791ad.chunk.js",
-    "static/js/2.7f4791ad.chunk.js.map": "/static/js/2.7f4791ad.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.9df9bd6ef31fa4e315dd69401f9aa108.js": "/precache-manifest.9df9bd6ef31fa4e315dd69401f9aa108.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.d5cefc6f.chunk.css.map": "/static/css/main.d5cefc6f.chunk.css.map",
-    "static/js/2.7f4791ad.chunk.js.LICENSE.txt": "/static/js/2.7f4791ad.chunk.js.LICENSE.txt"
+    "main.css": "/hiwin/static/css/main.d5cefc6f.chunk.css",
+    "main.js": "/hiwin/static/js/main.e086bb99.chunk.js",
+    "main.js.map": "/hiwin/static/js/main.e086bb99.chunk.js.map",
+    "runtime-main.js": "/hiwin/static/js/runtime-main.d9c4e860.js",
+    "runtime-main.js.map": "/hiwin/static/js/runtime-main.d9c4e860.js.map",
+    "static/js/2.7f4791ad.chunk.js": "/hiwin/static/js/2.7f4791ad.chunk.js",
+    "static/js/2.7f4791ad.chunk.js.map": "/hiwin/static/js/2.7f4791ad.chunk.js.map",
+    "index.html": "/hiwin/index.html",
+    "precache-manifest.15a2e71b3f5f6be9ebfe3b93b6a9d047.js": "/hiwin/precache-manifest.15a2e71b3f5f6be9ebfe3b93b6a9d047.js",
+    "service-worker.js": "/hiwin/service-worker.js",
+    "static/css/main.d5cefc6f.chunk.css.map": "/hiwin/static/css/main.d5cefc6f.chunk.css.map",
+    "static/js/2.7f4791ad.chunk.js.LICENSE.txt": "/hiwin/static/js/2.7f4791ad.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.d5781508.js",
+    "static/js/runtime-main.d9c4e860.js",
     "static/js/2.7f4791ad.chunk.js",
     "static/css/main.d5cefc6f.chunk.css",
     "static/js/main.e086bb99.chunk.js"
